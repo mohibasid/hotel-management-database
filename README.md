@@ -19,7 +19,7 @@ This project models a full-service hotel management system using PostgreSQL. It 
 ## Context
 Built as a final group project for **BUAN 6320: Database Foundations for Business Analytics** at **The University of Texas at Dallas** (Spring 2025).
 
-## 👨‍💻 Contributors
+## Contributors
 - Mohib Siddiqui
 - Ankita Jadhav
 - Nghi Ngo
